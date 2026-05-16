@@ -18,3 +18,10 @@
 # Flowchart
 
 ![alt text](rock-paper-scissors-game-flowchart.png)
+
+# Key Takeaways
+
+1. Variable assignment.
+2. Take user-input through console.
+3. Define functions w/ parameter & invoke them.
+4. Nested `if-else` condition.
