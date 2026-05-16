@@ -25,3 +25,7 @@
 2. Take user-input through console.
 3. Define functions w/ parameter & invoke them.
 4. Nested `if-else` condition.
+
+# Resources
+
+1. [YT] [Python for Beginners – Full Course [Programming Tutorial]](https://youtu.be/eWRfhZUzrAc?si=k5R53jt7AzS7CYRF)
