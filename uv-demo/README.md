@@ -16,3 +16,5 @@ The project folder includes the following files:
 Execute/run this python project using the following command:
 
 > uv run <python-file>.py
+
+Reference Video: Tech with Tim | Stop Using Pip - This New Tool is 100x Faster (UV Tutorial) | https://youtu.be/6pttmsBSi8M?si=OcY7912do48CimkO
