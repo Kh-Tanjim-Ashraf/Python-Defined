@@ -15,7 +15,11 @@ The project folder includes the following files:
 
 Execute/run this python project using the following command:
 
-> uv run <python-file>.py
+> uv run \<python-file\>.py
+
+To add a new package into the project:
+
+> uv add \<package-name\>
 
 ## Reference Video
 
