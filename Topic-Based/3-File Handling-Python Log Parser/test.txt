@@ -1,0 +1,8 @@
+This is a text file.
+ ERROR This line contains error-1. 
+WARN This line contains warning.
+ ERROR This line contains error-2. 
+DEBUG This line contains debug.
+ ERROR This line contains error-3. 
+INFO This line contains info.
+ ERROR This line contains error-4. 
